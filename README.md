@@ -40,9 +40,25 @@ Access the application at `http://localhost:3000` in your web browser.
 
 ## Preview
 
-Register Page
+Registration Page
+
 <img width="960" alt="Screenshot 2023-07-27 160012" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/c47f8cf7-39a4-48a4-b771-7547408c0bb1">
 
+Login Page
+
+<img width="960" alt="Screenshot 2023-07-27 160005" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/3ed7229b-eaf0-4a66-99c7-509843edd58d">
+
+Transaction Addition Section
+
+<img width="960" alt="Screenshot 2023-07-27 155843" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/10d9b17e-a770-439a-aaea-8e182b098575">
+
+Analytics Window
+
+<img width="960" alt="Screenshot 2023-07-27 155953" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/1ef05665-db26-494c-8545-b06b60fda273">
+
+New Transaction Addition Window
+
+<img width="960" alt="Screenshot 2023-07-27 155925" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/daaefa22-97ce-4077-a638-33e5f4ff564c">
 
 ## Contributing
 
