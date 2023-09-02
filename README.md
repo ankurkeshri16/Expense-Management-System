@@ -40,7 +40,7 @@ Access the application at `http://localhost:3000` in your web browser.
 
 ## Preview
 
-Registration Page
+####Registration Page
 
 
 <img width="960" alt="Screenshot 2023-07-27 160012" src="https://github.com/ankurkeshri16/Expense-Management-System/assets/110325934/c47f8cf7-39a4-48a4-b771-7547408c0bb1">
